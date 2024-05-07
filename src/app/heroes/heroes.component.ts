@@ -1,3 +1,5 @@
+// HeroesComponent presents a list of heroes
+
 import { Component, OnInit } from '@angular/core';
 
 import { Hero } from '../hero';

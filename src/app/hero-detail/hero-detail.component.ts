@@ -1,3 +1,5 @@
+// HeroDetailComponent presnts details about 1 hero
+
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Location } from '@angular/common';
