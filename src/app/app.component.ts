@@ -1,3 +1,6 @@
+// this is a no-standalone Angular project
+// uses NgModule
+
 import { Component } from '@angular/core';
 
 @Component({
